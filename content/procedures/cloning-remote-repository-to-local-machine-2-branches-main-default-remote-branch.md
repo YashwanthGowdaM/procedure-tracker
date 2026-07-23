@@ -2,7 +2,7 @@
 title: "Cloning Remote Repository to local machine[ 2 branches, main(default), Remote_branch [example: Remote_development] Make local branches, update change in local_branch later merge local_branch with local_main (main) Push local_main (main) to remote branch (Remote_development) Raise PR to Merge Remote_branch to Main(default)"
 category: "GIT"
 tags: ["Push Local to Remote"]
-updatedAt: "2026-07-23T02:10:19.481Z"
+updatedAt: "2026-07-23T02:22:01.636Z"
 ---
 
 git clone <main(default) - clone url>
