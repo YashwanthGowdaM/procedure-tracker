@@ -17,8 +17,8 @@ Describe step actions here...
 
 
 ## Step 2: [Title]
-uausuususu
+#uausuususu
 
 ```command
-# command
+uptime -p
 ```
